@@ -1,1 +1,1 @@
-RTL-SDR gnu project for listening FM radios
+RTL-SDR GNU radio project for listening FM radios
